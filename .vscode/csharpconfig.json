@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "2drpgdemo.sln",
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.useModernNet": true
+}
